@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "Capacitor Electrolítico",
+    "price": 15000,
+    "category": "capacitor",
+    "description": "Capacitor Electrolítico Aluminio 10u x 100uF x 100V.",
+    "imageUrl": "/images/Cap_Ele1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Capacitor Electrolítico",
+    "price": 25000,
+    "category": "capacitor",
+    "description": "Capacitor electrolítico hierro-petroleo 10u x 200uF x 500V",
+    "imageUrl": "/images/Cap_Ele2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Capacitor de Poliestileno",
+    "category": "capacitor",
+    "price": 12000,
+    "description": "Capacitor de Polestileno 10u x 50uF x 500V",
+    "imageUrl": "/images/Cap_Poli.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Capacitor Ceramico",
+    "category": "Capacitor",
+    "price": 5000,
+    "description": "Capacitor Cerámico 10u x 50pF.",
+    "imageUrl": "/images/Cap_Cera.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Resistencia de Metal",
+    "category": "Resistencia",
+    "price": 11000,
+    "description": "Resistencia de Metal 1/4W 100u x valores 1 a 1000Ω",
+    "imageUrl": "/images/Res_Meta.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Resistencia de Carbón",
+    "category": "Resistencia",
+    "price": 11000,
+    "description": "Resistencia de Carbon 1/4W 100u x valores 1 a 1000Ω",
+    "imageUrl": "/images/Res_Carb.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Resistencia Ceramica",
+    "category": "Resistencia",
+    "price": 8000,
+    "description": "Resistencia de Ceramica 5u x 10W 1 a 100Ω",
+    "imageUrl": "/images/Res_Cera.jpg"
+  },
+{
+    "id": "8",
+    "name": "Led Redondo",
+    "category": "Led",
+    "price": 11000,
+    "description": "Led Redondo 5mm x 100 unidades",
+    "imageUrl": "/images/Led_Redo.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Led Amarillo",
+    "category": "Led",
+    "price": 11000,
+    "description": "Led Rectangular 5mm x 100 unidades",
+    "imageUrl": "/images/Led_Rect.jpg"
+  }
+]
+
