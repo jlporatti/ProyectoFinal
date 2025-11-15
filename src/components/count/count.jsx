@@ -12,6 +12,7 @@ export const Count = ({ btnText, onConfirm }) => {
         setCount((prev) => (prev > 0 ? prev - 1 : 0));
     };
 
+    
     const confirm = () => {
         if (count > 0) {
             onConfirm(count);
