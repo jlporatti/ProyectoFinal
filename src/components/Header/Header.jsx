@@ -1,9 +1,10 @@
+import { Link } from "react-router-dom";
 import {Nav} from "../Nav/Nav"
 
 export const Header = () =>{
     return (
     <header>
-        <h2>C&E SRL</h2>
+        <Link to="/">Home</Link>
         <Nav />
     </header>
     );

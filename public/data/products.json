@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Capacitor Electrolítico",
     "price": 15000,
-    "category": "capacitor",
+    "category": "Capacitor",
     "description": "Capacitor Electrolítico Aluminio 10u x 100uF x 100V.",
     "imageUrl": "/images/Cap_Ele1.jpg"
   },
@@ -11,14 +11,14 @@
     "id": "2",
     "name": "Capacitor Electrolítico",
     "price": 25000,
-    "category": "capacitor",
+    "category": "Capacitor",
     "description": "Capacitor electrolítico hierro-petroleo 10u x 200uF x 500V",
     "imageUrl": "/images/Cap_Ele2.jpg"
   },
   {
     "id": "3",
     "name": "Capacitor de Poliestileno",
-    "category": "capacitor",
+    "category": "Capacitor",
     "price": 12000,
     "description": "Capacitor de Polestileno 10u x 50uF x 500V",
     "imageUrl": "/images/Cap_Poli.jpg"
